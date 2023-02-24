@@ -1,7 +1,7 @@
 
 <img src="images/coursera.svg" width="170" title="hover text"><br>
 
-<img src="images/meta.png" width="100"  title="hover text"><br> 
+<img src="images/meta.png" width="120"  title="hover text"><br> 
 ## Database Engineer Professional Certificate<br>
 ------
 ### Objectives
