@@ -14,6 +14,6 @@
 
 <br>
 <p align="center">
-<img src="images/badge.png"  width="140" title="hover text">
+<img src="images/badge.png"  width="170" title="hover text">
 </p>
 <br>
