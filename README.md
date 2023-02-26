@@ -11,3 +11,7 @@
 - Create SQL stored procedures to query the database and generate sales reports.
 - Implement a database client for Little Lemon.
 - Visualize the Little Lemon data using Tableau.
+
+<br>
+<center><img src="images/badge.png"  width="140" title="hover text"></center>
+<br>
