@@ -13,5 +13,7 @@
 - Visualize the Little Lemon data using Tableau.
 
 <br>
-<center><img src="images/badge.png"  width="140" title="hover text"></center>
+<p align="center">
+<img src="images/badge.png"  width="140" title="hover text">
+</p>
 <br>
